@@ -1,0 +1,152 @@
+@import url(http://fonts.googleapis.com/css?family=Ruda:400,700,900);
+
+
+
+h1{
+  font-size:90px;
+}
+
+body {
+ 
+  font-family:'Helvetica';
+}
+
+.head-section{
+  background: url(http://3.bp.blogspot.com/-Q8JZRApsUU4/ViYfIWW310I/AAAAAAAAc5Q/NlVR7iZ4EJo/s1600/lord_dunsany_relatos_novelas_obras.jpg) no-repeat center top;
+	padding-top: 240px;
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 600px;
+	width: 100%;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+.head-section h1{
+  color:#FFFFFF; 
+  font-weight: 900;
+  
+}
+.title{
+  background-color:#F06292;
+  padding:40px 0px 40px 0px;
+  opacity: 0.8;
+ 
+}
+.head-section hr{
+  width:700px;
+  color:#01579B;
+ 
+}
+
+#pf {
+  background-color:black;
+  padding-top:100px;
+  padding-bottom:100px;
+  padding-right:50px;
+  text-align: center;
+  width:100%;
+  
+}
+#pf h4 {
+	color: white;
+	font-size: 50px;
+	font-weight: 900;
+}
+#pf h6 {
+	color: white;
+	font-size: 20px;
+}
+#pf hr {
+	width:50px;
+  
+}
+
+.news {
+	background-position: center;
+	background-image: url('http://41.media.tumblr.com/d4fb18dd20be3ca5430a1770e8e5f7df/tumblr_molrn96VM01r7u6l5o1_1280.jpg');
+	background-size: cover;
+  
+  
+}
+
+.news .container {
+	width: 100%
+    
+}
+
+.section-bg-color {
+	background-color: #EC407A;
+	height: 100%;
+  padding-top: 80px;
+	padding-bottom: 80px;
+  opacity: 0.9;
+}
+
+.section-bg-color h3, .section-bg-color p {
+	margin-left: 25px;
+	margin-right: 25px;
+  font-size:20px;
+}
+.section-bg-color h3{
+  font-size:25px;
+	font-weight: 900;
+}
+#works{ 
+  text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 600px;
+	width: 100%;
+  
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+#works h3{
+  font-size:25px;
+	font-weight: 900;
+}
+
+.shrt-story{
+   background-color:#FFBF00;
+
+}
+.shrt-story ul{
+   margin:20px 80px 40px 80px;
+   padding:10px 10px 10px 10px;
+}
+.nov{
+   background-color:#2274A5;
+   
+}
+.nov ul{
+   margin:20px 80px 40px 80px;
+   padding:10px 10px 10px 10px;
+}
+.dram{
+  background-color:#32936F;
+  
+}
+.dram ul{
+   margin:20px 80px 40px 80px;
+   padding:10px 10px 10px 10px;
+}
+#credits{
+  text-align:center;
+}
